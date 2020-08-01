@@ -4,5 +4,5 @@ def using_while
   puts "Wingardium Leviosa"
   levitation_force += 1
 end
-This will print it 5 times, but we need 4!
+#This will print it 5 times, but we need 4!
 
